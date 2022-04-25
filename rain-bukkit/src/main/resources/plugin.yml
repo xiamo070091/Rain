@@ -1,0 +1,9 @@
+name: Rain
+version: '${project.version}'
+main: com.tangml.rain.RainBukkit
+authors: [ tangml, xiamo070091 ]
+description: 这是随风逐雨服务器附属插件
+website: www.tangml.fun
+commands:
+  iss:
+    description: RUA!RUA!RUA!

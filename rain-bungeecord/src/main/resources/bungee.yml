@@ -1,0 +1,5 @@
+name: Rain
+version: '${project.version}'
+main: com.tangml.rain.RainBungeeCord
+description: 这是随风逐雨BC端的附属插件
+depends: [MiraiMC]
